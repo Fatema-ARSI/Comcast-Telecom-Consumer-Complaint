@@ -31,11 +31,11 @@ Which state has the highest percentage of unresolved complaints.
  
 ## Analysis:
 
-<img src='Rplot.com.jpg' width='500' height='500'>
+<img src='Rplot_com.png' width='500' height='500'>
 
 - In the month of April and May, the tickets  increses but in the month of June it increases drastically, so there might be some reason for which they received high amount of tickets.
 
-<img src='Rplot.com.png' width='500' height='500'>
+<img src='Rplot_com1.png' width='500' height='500'>
 
 - And with the help of above daily chart of tickets we can observe that in second half of June month we recived more tickets with respect to normal days
 
