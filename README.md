@@ -31,22 +31,22 @@ Which state has the highest percentage of unresolved complaints.
  
 ## Analysis:
 
-img
+<img src='Rplot.com.jpg' width='500' height='500'>
 
 - In the month of April and May, the tickets  increses but in the month of June it increases drastically, so there might be some reason for which they received high amount of tickets.
 
-img
+<img src='Rplot_com1.jpg' width='500' height='500'>
 
 - And with the help of above daily chart of tickets we can observe that in second half of June month we recived more tickets with respect to normal days
 
 - With the unresolved  ticket count of 80, Georgia has the highest number of complaints recorded and the second highest number of complaints recorded from the state Florida.
 
 
-img
+<img src='Rplot_com2.jpg' width='500' height='500'>
 
 - With the help of above Chart of Total Resolved Vs Category Resolved complaints, we can conclude that the total resolved complaints are 77% in which 38% are received through the internet and 39% are from the customer care calls.
 
-img
+<img src='Rplot_com3.jpg' width='500' height='500'>
 
 - We can obserse that there are 23% complaints are still unresolved and in which 12% are received through internet and 11% are from the customer care calls.
 
